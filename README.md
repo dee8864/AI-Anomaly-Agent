@@ -59,3 +59,5 @@ MBA (Business Analytics)
 [LinkedIn](https://www.linkedin.com/in/deepanshu-sharma-8864ds/)
 
 [GitHub](https://github.com/dee8864)
+
+![FILE PREVIEW](https://github.com/dee8864/AI-Anomaly-Agent/blob/main/%23VISUALS%20AI-Anomaly-Agent.png)
