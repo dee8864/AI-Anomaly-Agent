@@ -1,0 +1,20 @@
+=== BUSINESS ANOMALY ALERT ===
+
+WEEK OF 2025-02-09:
+Revenue was $12,800 — which is unusually HIGH compared to the previous 4-week baseline.
+It is 8.1% above the baseline of $11,838.0.
+Business context: Positive spike (Marketing, seasonal boost, or bulk order).
+--------------------------------------------------
+
+WEEK OF 2025-05-18:
+Revenue was $15,500 — which is unusually HIGH compared to the previous 4-week baseline.
+It is 8.1% above the baseline of $14,338.0.
+Business context: Positive spike (Marketing, seasonal boost, or bulk order).
+--------------------------------------------------
+
+WEEK OF 2025-11-30:
+Revenue was $14,500 — which is unusually LOW compared to the previous 4-week baseline.
+It is -10.5% below the baseline of $16,200.0.
+Business context: Unexpected drop (Website issue, supply chain, or demand change).
+--------------------------------------------------
+
