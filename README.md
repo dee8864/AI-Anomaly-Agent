@@ -1,14 +1,12 @@
-# AI-Anomaly-Agent
+# <p align="center">AI-Anomaly-Agent<p>
 
+# AI Anomaly Agent — My Upskilling Journey in Data Automation & AI
 
-
-# ShopFlow AI Anomaly Agent — My Upskilling Journey in Data Automation & AI
-
-## 🧭 The Beginning: The Problem I Wanted to Solve
+## The Beginning: The Problem I Wanted to Solve
 As a data enthusiast, I noticed a massive pain point in small businesses: managers receive endless Excel reports every week, but they don't have time to manually scan 52 rows of data to figure out which changes are "normal noise" and which are "emergencies." 
 I wanted to build a system that does the boring, repetitive math so a manager can focus on *decisions*, not spreadsheets.
 
-## 🛠️ The Build: My Step-by-Step Progression (From Stats to AI)
+## The Build: My Step-by-Step Progression (From Stats to AI)
 I decided to build this project from the ground up, writing every line of code myself. This project shows my evolution from a traditional data analyst to someone who can integrate modern AI tools.
 
 **Phase 1: The Core Analytics Engine**
@@ -26,7 +24,7 @@ I decided to take this from a "good project" to a "next-level portfolio piece." 
 
 *The Real-World Challenge:* During this upgrade, I hit a massive wall. Google kept returning `404 NOT FOUND` errors on multiple model names (`1.5-flash`, `2.0-flash-exp`, `gemini-pro`). Instead of giving up, I wrote a diagnostic script to pull Google's allowed model list directly from the backend, identified the dynamic `gemini-flash-latest` alias, and successfully connected the AI. **This experience taught me that real data work isn't about perfect tutorials—it's about stubbornly diagnosing and fixing API errors until the system works.**
 
-## 📦 Project Architecture
+## Project Architecture
 - **Language:** Python 3 (Pandas, NumPy)
 - **Environment:** Jupyter Notebook
 - **Statistical Logic:** Z-Score analysis on 4-week rolling baselines
@@ -34,16 +32,30 @@ I decided to take this from a "good project" to a "next-level portfolio piece." 
 - **Security:** Environment variables (`.env`) used to safely manage API credentials
 - **Outputs:** `.txt` alert reports, CSV alert history logs, and AI-driven business summaries
 
-## 🚀 Why This Project Makes Me Different From Other Students
+## Why This Project Makes Me Different From Other Students
 Most student projects stop at the successful code block. 
 - **I documented my failures.** My Jupyter notebook shows both the `if/else` foundation and the final AI upgrade, proving I didn't just copy a script—I built it.
 - **I troubleshooted live APIs.** I didn't just plug in a library and walk away. When Google's deprecated models threw 404 errors, I analyzed the backend responses, fixed the integration, and made the system robust.
 - **I separated concerns.** The statistical detection and the AI interpretation are separate layers, meaning you could easily swap out the AI model for a different provider without breaking the math.
 - **I solved a genuine business problem.** Managers want *explanations*, not spreadsheets. This tool directly addresses that gap.
 
-## 📂 How to Run This (No API Key Included)
+## How to Run This (No API Key Included)
 1. Clone this repository.
 2. Install the requirements: `pip install -r requirements.txt`
 3. Open `anomaly_agent.ipynb` in Jupyter.
 4. (Note: The API key is hidden in a local `.env` file for security. You will need to generate your own free Google Gemini API key to run the AI portion).
 5. Run the notebook cells from top to bottom.
+
+---
+## Author
+
+This project was completed as a part of a practical data analytics learning journey. It represents a foundational step in applying Python to solve real business problems and translating raw data into meaningful visual stories.   
+
+
+**Deepanshu Sharma**
+
+MBA (Business Analytics)
+
+[LinkedIn](https://www.linkedin.com/in/deepanshu-sharma-8864ds/)
+
+[GitHub](https://github.com/dee8864)
