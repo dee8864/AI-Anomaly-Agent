@@ -57,26 +57,3 @@ Here is a new script tailored to your journey. Read this out loud 2-3 times unti
 **Part 1: The Hook (30 seconds)**
 
 > *"I built an automated Anomaly Detection Agent for business data. I started this project because I realized that business managers waste hours combing through spreadsheets, trying to figure out which weekly changes are normal noise and which require immediate action. My goal was to automate the math and deliver the signal, not the noise."*
-
-**Part 2: The Technical Story (The "Upskilling" Narrative)**
-
-> *"I built the engine in three phases. Phase 1 was purely statistical—I used Python and Pandas to set up a rolling 4-week baseline and a Z-score threshold. Phase 2 was business-focused—I wrote an `if/else` layer that translated the math into English, because a manager doesn't want a Z-score of `-1.45`, they want to know that revenue dropped 10%.*
->
-> *For Phase 3, I decided to upgrade it. I swapped the static `if/else` for a free Google Gemini API to generate more intelligent explanations. **But here’s the real interview moment:** Google’s API was a nightmare. I tried three different model names, and all of them hit 404 errors. A beginner would have given up at the first error, but I didn't. I wrote a diagnostic script to bypass the backend, identified the correct dynamic alias (`gemini-flash-latest`), and successfully bridged the connection. That roadblock taught me that in real-world analytics, you don't always get a working tutorial—you have to debug your way to a solution."*
-
-**Part 3: The Architecture & Why It Matters**
-
-> *"I also designed the architecture with modularity in mind. The statistical detection engine and the AI explanation layer are completely decoupled. If my client decides they don't want to pay for an external API, I can just plug that `if/else` logic back in without touching the anomaly detector. I also set up a logging system (`alert_history.csv`) to track all triggered anomalies over time, which gives managers a historical view of what usually breaks."*
-
-**Part 4: The Closing (Why you are different)**
-
-> *"Ultimately, I built this because I wanted a portfolio project that wasn't just a clean copy-paste from a tutorial. I wanted something that proved I could clean messy CSV data, write interpretable statistical logic, *and* successfully integrate a real-world AI API—even when the API actively fought back. It shows that I'm not just a user of tools; I'm a problem solver who can get a system to work from end to end."*
-
----
-
-### Your Final GitHub Check:
-1. Your folder contains: `shopflow_data.csv`, `anomaly_agent.ipynb`, `README.md` (with the new text above), `requirements.txt`, and an `.env` file (with the key removed).
-2. You are ready to commit and push to GitHub.
-3. Take a screenshot of your Jupyter notebook showing the `gemini-flash-latest` AI output (like your last screenshot) and add that as a preview image to your GitHub repository description.
-
-You have transformed a simple script into a documented story of grit and upskilling. Go get that opportunity, you've absolutely earned it.
