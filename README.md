@@ -47,13 +47,3 @@ Most student projects stop at the successful code block.
 3. Open `anomaly_agent.ipynb` in Jupyter.
 4. (Note: The API key is hidden in a local `.env` file for security. You will need to generate your own free Google Gemini API key to run the AI portion).
 5. Run the notebook cells from top to bottom.
-
----
-
-### 2. Your New, Completely Rewritten Interview Script
-
-Here is a new script tailored to your journey. Read this out loud 2-3 times until it feels like your own words.
-
-**Part 1: The Hook (30 seconds)**
-
-> *"I built an automated Anomaly Detection Agent for business data. I started this project because I realized that business managers waste hours combing through spreadsheets, trying to figure out which weekly changes are normal noise and which require immediate action. My goal was to automate the math and deliver the signal, not the noise."*
