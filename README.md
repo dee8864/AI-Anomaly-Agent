@@ -2,6 +2,7 @@
 
 # AI Anomaly Agent — My Upskilling Journey in Data Automation & AI
 
+# <p align="center"><a href="https://ibb.co/hx2wm6qf"><img src="https://i.ibb.co/MyPQCvX6/Gemini-Generated-Image-j4drwlj4drwlj4dr.png" alt="Gemini-Generated-Image-j4drwlj4drwlj4dr" border="0"></a></p>
 ## The Beginning: The Problem I Wanted to Solve
 As a data enthusiast, I noticed a massive pain point in small businesses: managers receive endless Excel reports every week, but they don't have time to manually scan 52 rows of data to figure out which changes are "normal noise" and which are "emergencies." 
 I wanted to build a system that does the boring, repetitive math so a manager can focus on *decisions*, not spreadsheets.
